@@ -25,3 +25,4 @@ vvv.quote
 fg.change_folder_next
 dgc.subjrx
 patch-1.5.11.vk.pgp_verbose_mime
+fg.gpg_smime_output
