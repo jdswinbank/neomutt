@@ -274,6 +274,8 @@ WHERE REGEXP PgpDecryptionOkay;
 WHERE char *PgpSignAs;
 WHERE short PgpTimeout;
 WHERE char *PgpEntryFormat;
+WHERE char *PgpMimeSignatureFilename;
+WHERE char *PgpMimeSignatureDescription;
 WHERE char *PgpClearSignCommand;
 WHERE char *PgpDecodeCommand;
 WHERE char *PgpVerifyCommand;
